@@ -1,0 +1,13 @@
+com\globits\resourceserver\hr\configs\CorsConfiguration.class
+com\globits\resourceserver\sample\dto\ColorDto.class
+com\globits\resourceserver\hr\controllers\ColorsRestController.class
+com\globits\resourceserver\hr\listeners\ApplicationStartupListener.class
+com\globits\resourceserver\hr\UrlGrantedAuthority.class
+com\globits\resourceserver\sample\service\impl\ColorServiceImpl.class
+com\globits\resourceserver\hr\GlobitsHrResourceServerApplication.class
+com\globits\resourceserver\sample\model\Color.class
+com\globits\resourceserver\sample\service\ColorService.class
+com\globits\resourceserver\sample\dto\SearchDto.class
+com\globits\resourceserver\sample\dao\ColorRepository.class
+com\globits\resourceserver\hr\configs\WebSecurityConfig.class
+com\globits\resourceserver\hr\configs\DatabaseConfig.class
